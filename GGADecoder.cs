@@ -57,24 +57,6 @@ namespace nmea2kml
             return String.Format("{0}{1}", positive?"":"-", degs+ddegs);
         }
 
-        public String PrettyPrint()
-        {
-            var sb = new StringBuilder();
-            sb.AppendFormat("Fix at:     {0}\n", this.SentanceTime.TimeOfDay.ToString());
-            sb.AppendFormat("Latitude:   {0} {1}\n", this.Latitude, this.North ? "N" : "S");
-            sb.AppendFormat("Longitude:  {0} {1}\n", this.Longitude, this.East ? "E" : "W");
-            if (this.Altitude > 0)
-            {
-                sb.AppendFormat("Altitude:   {0}", this.Altitude);
-            }
-
-            if (this.Satellites > 0)
-            {
-                sb.AppendFormat("Satellites: {0}", this.Satellites);
-            }
-            return sb.ToString();
-        }
-
         public String KmlPlacemark()
         {
             var sb = new StringBuilder();
@@ -83,12 +65,16 @@ namespace nmea2kml
             sb.AppendLine("<name>NMEA0183 GGADecoder Fix</name>");
             sb.AppendLine("<description>");
             sb.AppendLine("<![CDATA[");
-            sb.AppendFormat("Fix at {0}\n", this.SentanceTime.TimeOfDay.ToString());
+            sb.AppendFormat("Fix at {0}\nWith {1} Satellites\n", this.SentanceTime.TimeOfDay.ToString(), this.Satellites);
+            if(this.Altitude > 0)
+            {
+                sb.AppendFormat("At {0}M\n", this.Altitude);
+            }
             sb.AppendLine("]]>");
             sb.AppendLine("</description>");
             sb.AppendLine("<Point>");
             sb.AppendFormat("<coordinates>{0},", ToDecimalDegrees(this.Latitude, this.North));
-            sb.AppendFormat("{0}</coordinates>", ToDecimalDegrees(this.Longitude, this.East));
+            sb.AppendFormat("{0}</coordinates>\n", ToDecimalDegrees(this.Longitude, this.East));
             sb.AppendLine("</Point>");
             sb.AppendLine("</Placemark>");
 
