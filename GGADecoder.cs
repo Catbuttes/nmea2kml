@@ -16,39 +16,82 @@ namespace nmea2kml
         {
             var data = GGAString.Split(',');
 
-            var hour = int.Parse(data[1].Substring(0,2));
-            var minute = int.Parse(data[1].Substring(2,2));
-            var second = int.Parse(data[1].Substring(4,2));
-            this.SentanceTime = new DateTime(1970, 01, 01, hour, minute, second);  
+            //Sanity check
+            if (!data[0].EndsWith("GGA"))
+            {
+                throw new NotSupportedException("Unsupported NMEA 0183 Sentence passed to GGA decoder");
+            }
+
+            var hour = int.Parse(data[1].Substring(0, 2));
+            var minute = int.Parse(data[1].Substring(2, 2));
+            var second = int.Parse(data[1].Substring(4, 2));
+            this.SentanceTime = new DateTime(1970, 01, 01, hour, minute, second);
 
             this.Latitude = String.Format("{0} {1}", data[2].Substring(0, 2), data[2].Substring(2));
             this.North = (data[3] == "N");
-            this.Longitude = String.Format("{0} {1}", data[4].Substring(0, 2), data[4].Substring(2));
+            this.Longitude = String.Format("{0} {1}", data[4].Substring(0, 3), data[4].Substring(3));
+            if(this.Longitude.StartsWith("0"))
+            {
+                this.Longitude = this.Longitude.Substring(1);
+            }
             this.East = (data[5] == "E");
 
-            if(data[9].Length > 1)
+            if (data[9].Length > 1)
+            {
                 this.Altitude = int.Parse(data[9]);
+            }
             else
+            {
                 this.Altitude = -1;
+            }
 
             this.Satellites = int.Parse(data[7]);
+        }
+
+        private static string ToDecimalDegrees(string Value, bool positive)
+        {
+            var data = Value.Split(' ');
+            var dmins = float.Parse(data[1]);
+            var ddegs = dmins / 60;
+            var degs = float.Parse(data[0]);
+            return String.Format("{0}{1}", positive?"":"-", degs+ddegs);
         }
 
         public String PrettyPrint()
         {
             var sb = new StringBuilder();
             sb.AppendFormat("Fix at:     {0}\n", this.SentanceTime.TimeOfDay.ToString());
-            sb.AppendFormat("Latitude:   {0} {1}\n", this.Latitude, this.North?"N":"S");
-            sb.AppendFormat("Longitude:  {0} {1}\n", this.Longitude, this.East?"E":"W");
-            if(this.Altitude > 0)
+            sb.AppendFormat("Latitude:   {0} {1}\n", this.Latitude, this.North ? "N" : "S");
+            sb.AppendFormat("Longitude:  {0} {1}\n", this.Longitude, this.East ? "E" : "W");
+            if (this.Altitude > 0)
             {
                 sb.AppendFormat("Altitude:   {0}", this.Altitude);
             }
 
-            if(this.Satellites > 0)
+            if (this.Satellites > 0)
             {
                 sb.AppendFormat("Satellites: {0}", this.Satellites);
             }
+            return sb.ToString();
+        }
+
+        public String KmlPlacemark()
+        {
+            var sb = new StringBuilder();
+
+            sb.AppendLine("<Placemark>");
+            sb.AppendLine("<name>NMEA0183 GGADecoder Fix</name>");
+            sb.AppendLine("<description>");
+            sb.AppendLine("<![CDATA[");
+            sb.AppendFormat("Fix at {0}\n", this.SentanceTime.TimeOfDay.ToString());
+            sb.AppendLine("]]>");
+            sb.AppendLine("</description>");
+            sb.AppendLine("<Point>");
+            sb.AppendFormat("<coordinates>{0},", ToDecimalDegrees(this.Latitude, this.North));
+            sb.AppendFormat("{0}</coordinates>", ToDecimalDegrees(this.Longitude, this.East));
+            sb.AppendLine("</Point>");
+            sb.AppendLine("</Placemark>");
+
             return sb.ToString();
         }
     }

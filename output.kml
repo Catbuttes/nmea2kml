@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:46:54
+]]>
+</description>
+<Point>
+<coordinates>35.91552,-74.04165</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:47:00
+]]>
+</description>
+<Point>
+<coordinates>35.91553,-74.04166</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:47:06
+]]>
+</description>
+<Point>
+<coordinates>35.91555,-74.0417</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:47:12
+]]>
+</description>
+<Point>
+<coordinates>35.91555,-74.04172</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:47:18
+]]>
+</description>
+<Point>
+<coordinates>35.91557,-74.04175</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:47:24
+]]>
+</description>
+<Point>
+<coordinates>35.91558,-74.04179</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:47:30
+]]>
+</description>
+<Point>
+<coordinates>35.9156,-74.0418</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:47:36
+]]>
+</description>
+<Point>
+<coordinates>35.91562,-74.04183</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:47:42
+]]>
+</description>
+<Point>
+<coordinates>35.91563,-74.04185</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:47:48
+]]>
+</description>
+<Point>
+<coordinates>35.91565,-74.04187</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:47:54
+]]>
+</description>
+<Point>
+<coordinates>35.91568,-74.04189</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:48:00
+]]>
+</description>
+<Point>
+<coordinates>35.9157,-74.0419</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:48:06
+]]>
+</description>
+<Point>
+<coordinates>35.91573,-74.04192</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:48:12
+]]>
+</description>
+<Point>
+<coordinates>35.91575,-74.04193</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:48:18
+]]>
+</description>
+<Point>
+<coordinates>35.91578,-74.04195</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:48:24
+]]>
+</description>
+<Point>
+<coordinates>35.9158,-74.04197</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:48:30
+]]>
+</description>
+<Point>
+<coordinates>35.91583,-74.04198</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:48:36
+]]>
+</description>
+<Point>
+<coordinates>35.91587,-74.042</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:48:42
+]]>
+</description>
+<Point>
+<coordinates>35.91588,-74.04202</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:48:48
+]]>
+</description>
+<Point>
+<coordinates>35.9159,-74.04203</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:48:54
+]]>
+</description>
+<Point>
+<coordinates>35.91592,-74.04205</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:49:00
+]]>
+</description>
+<Point>
+<coordinates>35.91595,-74.04208</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:49:06
+]]>
+</description>
+<Point>
+<coordinates>35.91597,-74.0421</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:49:12
+]]>
+</description>
+<Point>
+<coordinates>35.91599,-74.04214</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:49:18
+]]>
+</description>
+<Point>
+<coordinates>35.91599,-74.04215</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:49:24
+]]>
+</description>
+<Point>
+<coordinates>35.916,-74.04218</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:49:30
+]]>
+</description>
+<Point>
+<coordinates>35.91602,-74.0422</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:49:36
+]]>
+</description>
+<Point>
+<coordinates>35.91602,-74.04224</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:49:42
+]]>
+</description>
+<Point>
+<coordinates>35.91603,-74.04227</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:49:48
+]]>
+</description>
+<Point>
+<coordinates>35.91603,-74.0423</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:49:54
+]]>
+</description>
+<Point>
+<coordinates>35.91602,-74.04234</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:50:00
+]]>
+</description>
+<Point>
+<coordinates>35.91602,-74.04235</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:50:06
+]]>
+</description>
+<Point>
+<coordinates>35.916,-74.04238</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:50:12
+]]>
+</description>
+<Point>
+<coordinates>35.916,-74.04242</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:50:18
+]]>
+</description>
+<Point>
+<coordinates>35.916,-74.04245</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:50:24
+]]>
+</description>
+<Point>
+<coordinates>35.916,-74.04247</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:50:30
+]]>
+</description>
+<Point>
+<coordinates>35.916,-74.0425</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:50:36
+]]>
+</description>
+<Point>
+<coordinates>35.91599,-74.04253</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:50:42
+]]>
+</description>
+<Point>
+<coordinates>35.91599,-74.04256</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:50:48
+]]>
+</description>
+<Point>
+<coordinates>35.91597,-74.04258</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:50:54
+]]>
+</description>
+<Point>
+<coordinates>35.91597,-74.04262</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:51:00
+]]>
+</description>
+<Point>
+<coordinates>35.91597,-74.04265</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:51:06
+]]>
+</description>
+<Point>
+<coordinates>35.91597,-74.04269</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:51:12
+]]>
+</description>
+<Point>
+<coordinates>35.91595,-74.04272</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:51:18
+]]>
+</description>
+<Point>
+<coordinates>35.91595,-74.04273</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:51:24
+]]>
+</description>
+<Point>
+<coordinates>35.91595,-74.04277</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:51:30
+]]>
+</description>
+<Point>
+<coordinates>35.91595,-74.0428</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:51:36
+]]>
+</description>
+<Point>
+<coordinates>35.91593,-74.04283</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:51:42
+]]>
+</description>
+<Point>
+<coordinates>35.91593,-74.04285</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:51:48
+]]>
+</description>
+<Point>
+<coordinates>35.91592,-74.04288</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:51:54
+]]>
+</description>
+<Point>
+<coordinates>35.9159,-74.04292</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:52:00
+]]>
+</description>
+<Point>
+<coordinates>35.91588,-74.04293</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:52:06
+]]>
+</description>
+<Point>
+<coordinates>35.91588,-74.04297</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:52:12
+]]>
+</description>
+<Point>
+<coordinates>35.91587,-74.043</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:52:18
+]]>
+</description>
+<Point>
+<coordinates>35.91585,-74.04301</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:52:24
+]]>
+</description>
+<Point>
+<coordinates>35.91585,-74.04305</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:52:30
+]]>
+</description>
+<Point>
+<coordinates>35.91583,-74.04308</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:52:36
+]]>
+</description>
+<Point>
+<coordinates>35.91583,-74.0431</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:52:42
+]]>
+</description>
+<Point>
+<coordinates>35.91582,-74.04314</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:52:48
+]]>
+</description>
+<Point>
+<coordinates>35.91582,-74.04317</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:52:54
+]]>
+</description>
+<Point>
+<coordinates>35.91582,-74.0432</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:53:00
+]]>
+</description>
+<Point>
+<coordinates>35.91582,-74.04321</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:53:06
+]]>
+</description>
+<Point>
+<coordinates>35.91582,-74.04325</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:53:12
+]]>
+</description>
+<Point>
+<coordinates>35.91582,-74.04328</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:53:18
+]]>
+</description>
+<Point>
+<coordinates>35.91582,-74.04332</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:53:24
+]]>
+</description>
+<Point>
+<coordinates>35.91582,-74.04335</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:53:30
+]]>
+</description>
+<Point>
+<coordinates>35.91582,-74.04337</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:53:36
+]]>
+</description>
+<Point>
+<coordinates>35.91582,-74.0434</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:53:42
+]]>
+</description>
+<Point>
+<coordinates>35.91582,-74.04343</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:53:48
+]]>
+</description>
+<Point>
+<coordinates>35.91582,-74.04346</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:53:54
+]]>
+</description>
+<Point>
+<coordinates>35.9158,-74.04348</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:54:00
+]]>
+</description>
+<Point>
+<coordinates>35.9158,-74.04352</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:54:06
+]]>
+</description>
+<Point>
+<coordinates>35.91578,-74.04355</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:54:12
+]]>
+</description>
+<Point>
+<coordinates>35.91577,-74.04359</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:54:18
+]]>
+</description>
+<Point>
+<coordinates>35.91577,-74.0436</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:54:24
+]]>
+</description>
+<Point>
+<coordinates>35.91575,-74.04363</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:54:30
+]]>
+</description>
+<Point>
+<coordinates>35.91575,-74.04366</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:54:36
+]]>
+</description>
+<Point>
+<coordinates>35.91573,-74.04369</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:54:42
+]]>
+</description>
+<Point>
+<coordinates>35.91573,-74.04372</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:54:48
+]]>
+</description>
+<Point>
+<coordinates>35.91573,-74.04375</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:54:54
+]]>
+</description>
+<Point>
+<coordinates>35.91572,-74.04377</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:55:00
+]]>
+</description>
+<Point>
+<coordinates>35.9157,-74.0438</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:55:06
+]]>
+</description>
+<Point>
+<coordinates>35.91567,-74.04382</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:55:12
+]]>
+</description>
+<Point>
+<coordinates>35.91565,-74.04383</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:55:18
+]]>
+</description>
+<Point>
+<coordinates>35.91563,-74.04385</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:55:24
+]]>
+</description>
+<Point>
+<coordinates>35.91562,-74.04388</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:55:30
+]]>
+</description>
+<Point>
+<coordinates>35.91558,-74.0439</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:55:36
+]]>
+</description>
+<Point>
+<coordinates>35.91557,-74.04391</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:55:42
+]]>
+</description>
+<Point>
+<coordinates>35.91555,-74.04393</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:55:48
+]]>
+</description>
+<Point>
+<coordinates>35.91552,-74.04395</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:55:54
+]]>
+</description>
+<Point>
+<coordinates>35.9155,-74.04397</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:56:00
+]]>
+</description>
+<Point>
+<coordinates>35.91547,-74.04398</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:56:06
+]]>
+</description>
+<Point>
+<coordinates>35.91545,-74.044</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:56:12
+]]>
+</description>
+<Point>
+<coordinates>35.91543,-74.04404</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:56:18
+]]>
+</description>
+<Point>
+<coordinates>35.9154,-74.04405</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:56:24
+]]>
+</description>
+<Point>
+<coordinates>35.91538,-74.04405</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:56:30
+]]>
+</description>
+<Point>
+<coordinates>35.91535,-74.04407</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:56:36
+]]>
+</description>
+<Point>
+<coordinates>35.91532,-74.04408</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:56:42
+]]>
+</description>
+<Point>
+<coordinates>35.9153,-74.0441</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GGADecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:56:48
+]]>
+</description>
+<Point>
+<coordinates>35.91527,-74.04411</coordinates></Point>
+</Placemark>
+</Document>
+</kml>
