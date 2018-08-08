@@ -49,16 +49,7 @@ namespace nmea2kml.Decoders
 
 
             double.TryParse(data[9], out this.Altitude);
-            // if (data[9].Length > 1)
-            // {
-            //     this.Altitude = int.Parse(data[9]);
-            // }
-            // else
-            // {
-            //     this.Altitude = -1;
-            // }
-
-            this.Satellites = int.Parse(data[7]);
+            int.TryParse(data[7], out this.Satellites);
         }
 
         private static string ToDecimalDegrees(string sDegs, string sMins, bool positive)
