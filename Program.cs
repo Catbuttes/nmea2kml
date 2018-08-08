@@ -14,19 +14,17 @@ namespace nmea2kml
 
             var file = args[0];
             var kmlFile = args[1];
-            var fixData = new List<GGADecoder>();
+            var fixData = new List<Decoders.IDecoder>();
             using (var textFile = new System.IO.StreamReader(file))
             {
                 var dataLine = textFile.ReadLine();
-
+                var decoderFactory = new Decoders.DecoderFactory();
                 while (!String.IsNullOrEmpty(dataLine))
                 {
-                    if (dataLine.StartsWith("$GPGGA"))
-                    {
-                        var fix = new GGADecoder(dataLine);
+                    var fix = decoderFactory.CreateDecoder(dataLine);
+                    if(fix != null)
                         fixData.Add(fix);
-                    }
-
+                    
                     dataLine = textFile.ReadLine();
                 }
             }
@@ -44,7 +42,7 @@ namespace nmea2kml
             output.AppendLine("</Document>");
             output.AppendLine("</kml>");
 
-            using(var writeFile = new System.IO.StreamWriter(kmlFile))
+            using (var writeFile = new System.IO.StreamWriter(kmlFile))
             {
                 writeFile.Write(output.ToString());
             }

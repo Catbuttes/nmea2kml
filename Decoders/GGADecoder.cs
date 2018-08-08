@@ -1,14 +1,16 @@
 using System;
 using System.Text;
 
-namespace nmea2kml
+namespace nmea2kml.Decoders
 {
-    class GGADecoder
+    class GGADecoder : IDecoder
     {
         private DateTime SentanceTime;
-        private String Latitude;
+        private String LatitudeDegrees;
+        private String LatitudeMinutes;
         private bool North;
-        private String Longitude;
+        private String LongitudeDegrees;
+        private String LongitudeMinutes;
         private bool East;
         private double Altitude;
         private int Satellites;
@@ -27,33 +29,43 @@ namespace nmea2kml
             var second = int.Parse(data[1].Substring(4, 2));
             this.SentanceTime = new DateTime(1970, 01, 01, hour, minute, second);
 
-            this.Latitude = String.Format("{0} {1}", data[2].Substring(0, 2), data[2].Substring(2));
+            this.LatitudeDegrees = data[2].Substring(0, 2);
+            this.LatitudeMinutes = data[2].Substring(2);
             this.North = (data[3] == "N");
-            this.Longitude = String.Format("{0} {1}", data[4].Substring(0, 3), data[4].Substring(3));
-            if(this.Longitude.StartsWith("0"))
+            while(this.LatitudeDegrees.StartsWith("0"))
             {
-                this.Longitude = this.Longitude.Substring(1);
+                //Trim off leading zeros
+                this.LatitudeDegrees = this.LatitudeDegrees.Substring(1);
+            }
+
+            this.LongitudeDegrees = data[4].Substring(0, 3);
+            this.LongitudeMinutes = data[4].Substring(3);
+            while(this.LongitudeDegrees.StartsWith("0"))
+            {
+                //Trim off leading zeros
+                this.LongitudeDegrees = this.LongitudeDegrees.Substring(1);
             }
             this.East = (data[5] == "E");
 
-            if (data[9].Length > 1)
-            {
-                this.Altitude = int.Parse(data[9]);
-            }
-            else
-            {
-                this.Altitude = -1;
-            }
+
+            double.TryParse(data[9], out this.Altitude);
+            // if (data[9].Length > 1)
+            // {
+            //     this.Altitude = int.Parse(data[9]);
+            // }
+            // else
+            // {
+            //     this.Altitude = -1;
+            // }
 
             this.Satellites = int.Parse(data[7]);
         }
 
-        private static string ToDecimalDegrees(string Value, bool positive)
+        private static string ToDecimalDegrees(string sDegs, string sMins, bool positive)
         {
-            var data = Value.Split(' ');
-            var dmins = float.Parse(data[1]);
+            var dmins = float.Parse(sMins);
             var ddegs = dmins / 60;
-            var degs = float.Parse(data[0]);
+            var degs = float.Parse(sDegs);
             return String.Format("{0}{1}", positive?"":"-", degs+ddegs);
         }
 
@@ -73,8 +85,8 @@ namespace nmea2kml
             sb.AppendLine("]]>");
             sb.AppendLine("</description>");
             sb.AppendLine("<Point>");
-            sb.AppendFormat("<coordinates>{0},", ToDecimalDegrees(this.Latitude, this.North));
-            sb.AppendFormat("{0}</coordinates>\n", ToDecimalDegrees(this.Longitude, this.East));
+            sb.AppendFormat("<coordinates>{0},", ToDecimalDegrees(this.LatitudeDegrees, this.LatitudeMinutes, this.North));
+            sb.AppendFormat("{0},{1}</coordinates>\n", ToDecimalDegrees(this.LongitudeDegrees, this.LongitudeMinutes, this.East), this.Altitude);
             sb.AppendLine("</Point>");
             sb.AppendLine("</Placemark>");
 

@@ -10,6 +10,17 @@ With 0 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.91552,-74.04165,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:46:55
+]]>
+</description>
+<Point>
 <coordinates>35.91552,-74.04165</coordinates>
 </Point>
 </Placemark>
@@ -19,6 +30,17 @@ With 0 Satellites
 <![CDATA[
 Fix at 11:47:00
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.91553,-74.04166,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:47:01
 ]]>
 </description>
 <Point>
@@ -34,6 +56,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.91555,-74.0417,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:47:07
+]]>
+</description>
+<Point>
 <coordinates>35.91555,-74.0417</coordinates>
 </Point>
 </Placemark>
@@ -43,6 +76,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:47:12
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.91555,-74.04172,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:47:13
 ]]>
 </description>
 <Point>
@@ -58,6 +102,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.91557,-74.04175,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:47:19
+]]>
+</description>
+<Point>
 <coordinates>35.91557,-74.04175</coordinates>
 </Point>
 </Placemark>
@@ -67,6 +122,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:47:24
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.91558,-74.04179,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:47:25
 ]]>
 </description>
 <Point>
@@ -82,6 +148,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.9156,-74.0418,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:47:31
+]]>
+</description>
+<Point>
 <coordinates>35.9156,-74.0418</coordinates>
 </Point>
 </Placemark>
@@ -91,6 +168,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:47:36
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.91562,-74.04183,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:47:37
 ]]>
 </description>
 <Point>
@@ -106,6 +194,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.91563,-74.04185,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:47:43
+]]>
+</description>
+<Point>
 <coordinates>35.91563,-74.04185</coordinates>
 </Point>
 </Placemark>
@@ -115,6 +214,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:47:48
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.91565,-74.04187,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:47:49
 ]]>
 </description>
 <Point>
@@ -130,6 +240,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.91568,-74.04189,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:47:55
+]]>
+</description>
+<Point>
 <coordinates>35.91568,-74.04189</coordinates>
 </Point>
 </Placemark>
@@ -139,6 +260,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:48:00
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.9157,-74.0419,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:48:01
 ]]>
 </description>
 <Point>
@@ -154,6 +286,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.91573,-74.04192,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:48:07
+]]>
+</description>
+<Point>
 <coordinates>35.91573,-74.04192</coordinates>
 </Point>
 </Placemark>
@@ -163,6 +306,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:48:12
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.91575,-74.04193,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:48:13
 ]]>
 </description>
 <Point>
@@ -178,6 +332,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.91578,-74.04195,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:48:19
+]]>
+</description>
+<Point>
 <coordinates>35.91578,-74.04195</coordinates>
 </Point>
 </Placemark>
@@ -187,6 +352,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:48:24
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.9158,-74.04197,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:48:25
 ]]>
 </description>
 <Point>
@@ -202,6 +378,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.91583,-74.04198,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:48:31
+]]>
+</description>
+<Point>
 <coordinates>35.91583,-74.04198</coordinates>
 </Point>
 </Placemark>
@@ -211,6 +398,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:48:36
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.91587,-74.042,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:48:37
 ]]>
 </description>
 <Point>
@@ -226,6 +424,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.91588,-74.04202,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:48:43
+]]>
+</description>
+<Point>
 <coordinates>35.91588,-74.04202</coordinates>
 </Point>
 </Placemark>
@@ -235,6 +444,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:48:48
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.9159,-74.04203,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:48:49
 ]]>
 </description>
 <Point>
@@ -250,6 +470,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.91592,-74.04205,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:48:55
+]]>
+</description>
+<Point>
 <coordinates>35.91592,-74.04205</coordinates>
 </Point>
 </Placemark>
@@ -259,6 +490,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:49:00
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.91595,-74.04208,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:49:01
 ]]>
 </description>
 <Point>
@@ -274,6 +516,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.91597,-74.0421,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:49:07
+]]>
+</description>
+<Point>
 <coordinates>35.91597,-74.0421</coordinates>
 </Point>
 </Placemark>
@@ -283,6 +536,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:49:12
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.91599,-74.04214,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:49:13
 ]]>
 </description>
 <Point>
@@ -298,6 +562,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.91599,-74.04215,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:49:19
+]]>
+</description>
+<Point>
 <coordinates>35.91599,-74.04215</coordinates>
 </Point>
 </Placemark>
@@ -307,6 +582,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:49:24
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.916,-74.04218,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:49:25
 ]]>
 </description>
 <Point>
@@ -322,6 +608,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.91602,-74.0422,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:49:31
+]]>
+</description>
+<Point>
 <coordinates>35.91602,-74.0422</coordinates>
 </Point>
 </Placemark>
@@ -331,6 +628,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:49:36
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.91602,-74.04224,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:49:37
 ]]>
 </description>
 <Point>
@@ -346,6 +654,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.91603,-74.04227,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:49:43
+]]>
+</description>
+<Point>
 <coordinates>35.91603,-74.04227</coordinates>
 </Point>
 </Placemark>
@@ -355,6 +674,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:49:48
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.91603,-74.0423,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:49:49
 ]]>
 </description>
 <Point>
@@ -370,6 +700,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.91602,-74.04234,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:49:55
+]]>
+</description>
+<Point>
 <coordinates>35.91602,-74.04234</coordinates>
 </Point>
 </Placemark>
@@ -379,6 +720,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:50:00
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.91602,-74.04235,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:50:01
 ]]>
 </description>
 <Point>
@@ -394,6 +746,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.916,-74.04238,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:50:07
+]]>
+</description>
+<Point>
 <coordinates>35.916,-74.04238</coordinates>
 </Point>
 </Placemark>
@@ -403,6 +766,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:50:12
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.916,-74.04242,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:50:13
 ]]>
 </description>
 <Point>
@@ -418,6 +792,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.916,-74.04245,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:50:19
+]]>
+</description>
+<Point>
 <coordinates>35.916,-74.04245</coordinates>
 </Point>
 </Placemark>
@@ -427,6 +812,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:50:24
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.916,-74.04247,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:50:25
 ]]>
 </description>
 <Point>
@@ -442,6 +838,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.916,-74.0425,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:50:31
+]]>
+</description>
+<Point>
 <coordinates>35.916,-74.0425</coordinates>
 </Point>
 </Placemark>
@@ -451,6 +858,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:50:36
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.91599,-74.04253,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:50:37
 ]]>
 </description>
 <Point>
@@ -466,6 +884,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.91599,-74.04256,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:50:43
+]]>
+</description>
+<Point>
 <coordinates>35.91599,-74.04256</coordinates>
 </Point>
 </Placemark>
@@ -475,6 +904,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:50:48
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.91597,-74.04258,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:50:49
 ]]>
 </description>
 <Point>
@@ -490,6 +930,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.91597,-74.04262,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:50:55
+]]>
+</description>
+<Point>
 <coordinates>35.91597,-74.04262</coordinates>
 </Point>
 </Placemark>
@@ -499,6 +950,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:51:00
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.91597,-74.04265,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:51:01
 ]]>
 </description>
 <Point>
@@ -514,6 +976,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.91597,-74.04269,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:51:07
+]]>
+</description>
+<Point>
 <coordinates>35.91597,-74.04269</coordinates>
 </Point>
 </Placemark>
@@ -523,6 +996,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:51:12
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.91595,-74.04272,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:51:13
 ]]>
 </description>
 <Point>
@@ -538,6 +1022,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.91595,-74.04273,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:51:19
+]]>
+</description>
+<Point>
 <coordinates>35.91595,-74.04273</coordinates>
 </Point>
 </Placemark>
@@ -547,6 +1042,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:51:24
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.91595,-74.04277,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:51:25
 ]]>
 </description>
 <Point>
@@ -562,6 +1068,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.91595,-74.0428,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:51:31
+]]>
+</description>
+<Point>
 <coordinates>35.91595,-74.0428</coordinates>
 </Point>
 </Placemark>
@@ -571,6 +1088,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:51:36
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.91593,-74.04283,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:51:37
 ]]>
 </description>
 <Point>
@@ -586,6 +1114,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.91593,-74.04285,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:51:43
+]]>
+</description>
+<Point>
 <coordinates>35.91593,-74.04285</coordinates>
 </Point>
 </Placemark>
@@ -595,6 +1134,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:51:48
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.91592,-74.04288,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:51:49
 ]]>
 </description>
 <Point>
@@ -610,6 +1160,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.9159,-74.04292,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:51:55
+]]>
+</description>
+<Point>
 <coordinates>35.9159,-74.04292</coordinates>
 </Point>
 </Placemark>
@@ -619,6 +1180,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:52:00
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.91588,-74.04293,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:52:01
 ]]>
 </description>
 <Point>
@@ -634,6 +1206,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.91588,-74.04297,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:52:07
+]]>
+</description>
+<Point>
 <coordinates>35.91588,-74.04297</coordinates>
 </Point>
 </Placemark>
@@ -643,6 +1226,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:52:12
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.91587,-74.043,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:52:13
 ]]>
 </description>
 <Point>
@@ -658,6 +1252,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.91585,-74.04301,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:52:19
+]]>
+</description>
+<Point>
 <coordinates>35.91585,-74.04301</coordinates>
 </Point>
 </Placemark>
@@ -667,6 +1272,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:52:24
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.91585,-74.04305,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:52:25
 ]]>
 </description>
 <Point>
@@ -682,6 +1298,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.91583,-74.04308,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:52:31
+]]>
+</description>
+<Point>
 <coordinates>35.91583,-74.04308</coordinates>
 </Point>
 </Placemark>
@@ -691,6 +1318,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:52:36
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.91583,-74.0431,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:52:37
 ]]>
 </description>
 <Point>
@@ -706,6 +1344,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.91582,-74.04314,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:52:43
+]]>
+</description>
+<Point>
 <coordinates>35.91582,-74.04314</coordinates>
 </Point>
 </Placemark>
@@ -715,6 +1364,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:52:48
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.91582,-74.04317,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:52:49
 ]]>
 </description>
 <Point>
@@ -730,6 +1390,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.91582,-74.0432,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:52:55
+]]>
+</description>
+<Point>
 <coordinates>35.91582,-74.0432</coordinates>
 </Point>
 </Placemark>
@@ -739,6 +1410,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:53:00
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.91582,-74.04321,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:53:01
 ]]>
 </description>
 <Point>
@@ -754,6 +1436,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.91582,-74.04325,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:53:07
+]]>
+</description>
+<Point>
 <coordinates>35.91582,-74.04325</coordinates>
 </Point>
 </Placemark>
@@ -763,6 +1456,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:53:12
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.91582,-74.04328,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:53:13
 ]]>
 </description>
 <Point>
@@ -778,6 +1482,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.91582,-74.04332,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:53:19
+]]>
+</description>
+<Point>
 <coordinates>35.91582,-74.04332</coordinates>
 </Point>
 </Placemark>
@@ -787,6 +1502,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:53:24
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.91582,-74.04335,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:53:25
 ]]>
 </description>
 <Point>
@@ -802,6 +1528,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.91582,-74.04337,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:53:31
+]]>
+</description>
+<Point>
 <coordinates>35.91582,-74.04337</coordinates>
 </Point>
 </Placemark>
@@ -811,6 +1548,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:53:36
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.91582,-74.0434,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:53:37
 ]]>
 </description>
 <Point>
@@ -826,6 +1574,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.91582,-74.04343,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:53:43
+]]>
+</description>
+<Point>
 <coordinates>35.91582,-74.04343</coordinates>
 </Point>
 </Placemark>
@@ -835,6 +1594,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:53:48
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.91582,-74.04346,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:53:49
 ]]>
 </description>
 <Point>
@@ -850,6 +1620,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.9158,-74.04348,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:53:55
+]]>
+</description>
+<Point>
 <coordinates>35.9158,-74.04348</coordinates>
 </Point>
 </Placemark>
@@ -859,6 +1640,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:54:00
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.9158,-74.04352,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:54:01
 ]]>
 </description>
 <Point>
@@ -874,6 +1666,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.91578,-74.04355,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:54:07
+]]>
+</description>
+<Point>
 <coordinates>35.91578,-74.04355</coordinates>
 </Point>
 </Placemark>
@@ -883,6 +1686,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:54:12
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.91577,-74.04359,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:54:13
 ]]>
 </description>
 <Point>
@@ -898,6 +1712,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.91577,-74.0436,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:54:19
+]]>
+</description>
+<Point>
 <coordinates>35.91577,-74.0436</coordinates>
 </Point>
 </Placemark>
@@ -907,6 +1732,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:54:24
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.91575,-74.04363,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:54:25
 ]]>
 </description>
 <Point>
@@ -922,6 +1758,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.91575,-74.04366,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:54:31
+]]>
+</description>
+<Point>
 <coordinates>35.91575,-74.04366</coordinates>
 </Point>
 </Placemark>
@@ -931,6 +1778,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:54:36
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.91573,-74.04369,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:54:37
 ]]>
 </description>
 <Point>
@@ -946,6 +1804,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.91573,-74.04372,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:54:43
+]]>
+</description>
+<Point>
 <coordinates>35.91573,-74.04372</coordinates>
 </Point>
 </Placemark>
@@ -955,6 +1824,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:54:48
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.91573,-74.04375,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:54:49
 ]]>
 </description>
 <Point>
@@ -970,6 +1850,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.91572,-74.04377,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:54:55
+]]>
+</description>
+<Point>
 <coordinates>35.91572,-74.04377</coordinates>
 </Point>
 </Placemark>
@@ -979,6 +1870,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:55:00
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.9157,-74.0438,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:55:01
 ]]>
 </description>
 <Point>
@@ -994,6 +1896,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.91567,-74.04382,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:55:07
+]]>
+</description>
+<Point>
 <coordinates>35.91567,-74.04382</coordinates>
 </Point>
 </Placemark>
@@ -1003,6 +1916,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:55:12
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.91565,-74.04383,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:55:13
 ]]>
 </description>
 <Point>
@@ -1018,6 +1942,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.91563,-74.04385,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:55:19
+]]>
+</description>
+<Point>
 <coordinates>35.91563,-74.04385</coordinates>
 </Point>
 </Placemark>
@@ -1027,6 +1962,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:55:24
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.91562,-74.04388,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:55:25
 ]]>
 </description>
 <Point>
@@ -1042,6 +1988,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.91558,-74.0439,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:55:31
+]]>
+</description>
+<Point>
 <coordinates>35.91558,-74.0439</coordinates>
 </Point>
 </Placemark>
@@ -1051,6 +2008,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:55:36
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.91557,-74.04391,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:55:37
 ]]>
 </description>
 <Point>
@@ -1066,6 +2034,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.91555,-74.04393,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:55:43
+]]>
+</description>
+<Point>
 <coordinates>35.91555,-74.04393</coordinates>
 </Point>
 </Placemark>
@@ -1075,6 +2054,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:55:48
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.91552,-74.04395,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:55:49
 ]]>
 </description>
 <Point>
@@ -1090,6 +2080,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.9155,-74.04397,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:55:55
+]]>
+</description>
+<Point>
 <coordinates>35.9155,-74.04397</coordinates>
 </Point>
 </Placemark>
@@ -1099,6 +2100,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:56:00
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.91547,-74.04398,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:56:01
 ]]>
 </description>
 <Point>
@@ -1114,6 +2126,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.91545,-74.044,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:56:07
+]]>
+</description>
+<Point>
 <coordinates>35.91545,-74.044</coordinates>
 </Point>
 </Placemark>
@@ -1123,6 +2146,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:56:12
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.91543,-74.04404,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:56:13
 ]]>
 </description>
 <Point>
@@ -1138,6 +2172,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.9154,-74.04405,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:56:19
+]]>
+</description>
+<Point>
 <coordinates>35.9154,-74.04405</coordinates>
 </Point>
 </Placemark>
@@ -1147,6 +2192,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:56:24
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.91538,-74.04405,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:56:25
 ]]>
 </description>
 <Point>
@@ -1162,6 +2218,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.91535,-74.04407,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:56:31
+]]>
+</description>
+<Point>
 <coordinates>35.91535,-74.04407</coordinates>
 </Point>
 </Placemark>
@@ -1171,6 +2238,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:56:36
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.91532,-74.04408,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:56:37
 ]]>
 </description>
 <Point>
@@ -1186,6 +2264,17 @@ With 4 Satellites
 ]]>
 </description>
 <Point>
+<coordinates>35.9153,-74.0441,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:56:43
+]]>
+</description>
+<Point>
 <coordinates>35.9153,-74.0441</coordinates>
 </Point>
 </Placemark>
@@ -1195,6 +2284,17 @@ With 4 Satellites
 <![CDATA[
 Fix at 11:56:48
 With 4 Satellites
+]]>
+</description>
+<Point>
+<coordinates>35.91527,-74.04411,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NMEA0183 GLLDecoder Fix</name>
+<description>
+<![CDATA[
+Fix at 11:56:49
 ]]>
 </description>
 <Point>
